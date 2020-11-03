@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>KYC_Legal_Entity__c</fullName>
+    <externalId>false</externalId>
+    <label>KYC Legal Entity</label>
+    <referenceTo>KYC_Legal_Entity__c</referenceTo>
+    <relationshipLabel>KYC Products</relationshipLabel>
+    <relationshipName>KYC_Products</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackFeedHistory>true</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

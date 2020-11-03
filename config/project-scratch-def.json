@@ -1,0 +1,18 @@
+{
+  "orgName": "Fenergo Test",
+  "edition": "Developer",
+  "features": [ "FinancialServicesUser:5"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
+      }
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
