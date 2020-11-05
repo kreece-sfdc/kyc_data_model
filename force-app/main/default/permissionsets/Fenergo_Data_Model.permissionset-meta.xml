@@ -56,4 +56,8 @@
         <object>KYC_Tax_Identifier__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+    <tabSettings>
+        <tab>KYC_Legal_Entity__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
