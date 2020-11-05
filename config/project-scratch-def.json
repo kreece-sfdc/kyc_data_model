@@ -1,7 +1,7 @@
 {
   "orgName": "Fenergo Test",
   "edition": "Developer",
-  "features": [ "FinancialServicesUser:5"],
+  "features": [ "FinancialServicesUser:5", "FieldAuditTrail", "PlatformEncryption" ],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true

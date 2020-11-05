@@ -156,7 +156,7 @@
     <label>KYC Product</label>
     <nameField>
         <label>Name</label>
-        <trackFeedHistory>true</trackFeedHistory>
+        <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
